@@ -34,4 +34,4 @@
 ![](https://osu.ppy.sh/ss/17531721/217f)
 ### Last updated 07/02/2022
 ### All skins in [mega download...](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
-https://github.com/rudjx3/skins
+https://github.com/rudjx3/skins/blob/main/README.md
