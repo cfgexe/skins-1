@@ -1,6 +1,7 @@
 # rudj & erick's skin Collection
-The best skin folder evr... archive created by rudj & erick 
-# [>> ALL 170+ SKINS - ALWAYS UPDATED <<](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
+### Mega Folder contains 170+ realtime updated skins, some featured skins are here below.
+
+# [<< Mega Folder >>](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
 
 # [+ candy powder](https://mega.nz/file/y1k3UAgZ#k01Mqu6qsIJfUY6hZovNQ3_wkN_IRmCAOFvh0X2hJB8)
 ![](https://osu.ppy.sh/ss/17509881/7000)
@@ -33,3 +34,4 @@ The best skin folder evr... archive created by rudj & erick
 ![](https://osu.ppy.sh/ss/17531721/217f)
 ### Last updated 07/02/2022
 ### All skins in [mega download...](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
+https://github.com/rudjx3/skins
