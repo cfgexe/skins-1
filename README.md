@@ -1,5 +1,5 @@
 # rudj & erick's skin Collection
-### Mega Folder contains 170+ skins. some are featured below
+### Mega Folder contains 170+ skins, some are featured below!!!
 
 # [<< Mega Folder >>](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
 
