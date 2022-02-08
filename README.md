@@ -1,5 +1,6 @@
 # rudj & erick's skin Collection
 ### Mega Folder contains 170+ realtime updated skins, some featured skins are here below.
+(mega folder is currently kinda not working lol, going to upload to drive instead tmrw and desync it)
 
 # [<< Mega Folder >>](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
 
