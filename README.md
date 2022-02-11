@@ -2,6 +2,8 @@
 ### Mega Folder contains 170+ skins, some are featured below!!!
 
 # [<< Mega Folder >>](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
+# [+ rafis pika](https://mega.nz/file/ao9llYZQ#x-8QB5cZwwhMaitheURkgsQXnsCKc6gpHMeKLfer8h0)
+![](https://osu.ppy.sh/ss/17541865/7f9a)
 
 # [+ candy powder](https://mega.nz/file/y1k3UAgZ#k01Mqu6qsIJfUY6hZovNQ3_wkN_IRmCAOFvh0X2hJB8)
 ![](https://osu.ppy.sh/ss/17509881/7000)
@@ -32,6 +34,6 @@
 
 # [mathi zan](https://mega.nz/file/qxUWmBJL#597tveJcYviaRTOxCtKUc5U6XuQ6WOMw5mrXkFKYWqI)
 ![](https://osu.ppy.sh/ss/17531721/217f)
-### Last updated 07/02/2022
+### Last updated 11/02/2022
 ### All skins in [mega download...](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
 ### https://github.com/rudjx3/skins/blob/main/README.md
