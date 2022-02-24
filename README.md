@@ -34,6 +34,9 @@
 
 # [mathi zan](https://mega.nz/file/qxUWmBJL#597tveJcYviaRTOxCtKUc5U6XuQ6WOMw5mrXkFKYWqI)
 ![](https://osu.ppy.sh/ss/17531721/217f)
-### Last updated 11/02/2022
+
+# [duck abyss](https://mega.nz/file/Lt8yEZgY#xq-haPVBb18FuJ6st9PUCMEvb04Zw-2xUmWsRZNMx6E)
+![](https://osu.ppy.sh/ss/17582070/9e0f)
+### Last updated 24/02/2022
 ### All skins in [mega download...](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
 ### https://github.com/rudjx3/skins/blob/main/README.md
