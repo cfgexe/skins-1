@@ -1,5 +1,12 @@
 # rudj & erick's skin Collection
 ### Needs to be updated lol
+
+# [+ rudj DT blue ](https://mega.nz/file/KlkSASYD#BtobNhTPaCkh4vjd73u9Ul61MgyIY1bj4LxFIiw2tGI)
+![](https://i.imgur.com/zoU1aFl.jpeg)
+
+# [+ rudj NM](https://mega.nz/file/LlFBFBAK#DWarlnv1GMOVe5nCqtQop0itHoShSEgdovx86aYvtjM)
+![](https://i.imgur.com/VjoObzX.jpeg)
+
 # [+ rafis pika](https://mega.nz/file/ao9llYZQ#x-8QB5cZwwhMaitheURkgsQXnsCKc6gpHMeKLfer8h0)
 ![](https://osu.ppy.sh/ss/17541865/7f9a)
 
