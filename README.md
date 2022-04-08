@@ -1,7 +1,5 @@
 # rudj & erick's skin Collection
-### Mega Folder contains 170+ skins, some are featured below!!!
-
-# [<< Mega Folder >>](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
+### Needs to be updated lol
 # [+ rafis pika](https://mega.nz/file/ao9llYZQ#x-8QB5cZwwhMaitheURkgsQXnsCKc6gpHMeKLfer8h0)
 ![](https://osu.ppy.sh/ss/17541865/7f9a)
 
@@ -38,5 +36,5 @@
 # [duck abyss](https://mega.nz/file/Lt8yEZgY#xq-haPVBb18FuJ6st9PUCMEvb04Zw-2xUmWsRZNMx6E)
 ![](https://osu.ppy.sh/ss/17582070/9e0f)
 ### Last updated 24/02/2022
-### All skins in [mega download...](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ)
+### All skins in [mega download...](https://mega.nz/folder/m4FyQLCb#HlzDSwUHKE1KN5gq1ejwTQ) BRPOKEN RN!!!
 ### https://github.com/rudjx3/skins/blob/main/README.md
