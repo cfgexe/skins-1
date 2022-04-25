@@ -1,6 +1,9 @@
 # rudj & erick's skin Collection
 ### Needs to be updated lol
 
+# [- xiao rudj](https://mega.nz/file/WoF3hBbZ#Sw9lyIP4TxyRzOYYA2GS60bMt_1Uraqemw257Lzn5Q8)
+![](https://osu.ppy.sh/ss/17759278/5d94)
+
 # [+ rudj DT blue ](https://mega.nz/file/KlkSASYD#BtobNhTPaCkh4vjd73u9Ul61MgyIY1bj4LxFIiw2tGI)
 ![](https://i.imgur.com/zoU1aFl.jpeg)
 
