@@ -1,49 +1,51 @@
-# [rudj dt blue](https://rudj.s-ul.eu/faLLKCwH)
+BROKEN WILL UPDATE
+# [rudj dt blue]()
 ![]()
 
-# [rudj dt pink](https://rudj.s-ul.eu/uO15qXGi)
+# [rudj dt pink]()
 ![]()
 
-# [rudj dt raf](https://rudj.s-ul.eu/Bhl5yMno)
+# [rudj dt raf]()
 ![]()
 
-# [rudj nm 0.1](https://rudj.s-ul.eu/EF2EOR12)
+# [rudj nm 0.1]()
 ![]()
 
-# [rudj nm red](https://rudj.s-ul.eu/3RMNjxUv)
+# [rudj nm red]()
 ![]()
 
-# [rudj nm varv](https://rudj.s-ul.eu/k3eIQptc)
+# [rudj nm varv]()
 ![]()
 
-# [aristia ✿](https://rudj.s-ul.eu/rpngWXHZ)
+# [aristia ✿]()
 ![]()
 
-# [aristia bliss](https://rudj.s-ul.eu/C037mjqM)
+# [aristia bliss]()
 ![]()
 
-# [aristia starfall](https://rudj.s-ul.eu/G58Ln8jn)
+# [aristia starfall]()
 ![]()
 
-# [aristia trail mix](https://rudj.s-ul.eu/YUlZRufu)
+# [aristia gray]()
 ![]()
 
-# [aristia yellow](https://rudj.s-ul.eu/SK1JFzbO)
+# [aristia yellow]()
 ![]()
 
-# [dddx15dt](https://rudj.s-ul.eu/IiORO6RB)
+# [dddx15dt]()
 ![]()
 
-# [dj anthony](https://rudj.s-ul.eu/Ol7y77Pp)
+# [dj anthony]()
 ![]()
 
-# [mathi zan](https://rudj.s-ul.eu/B88KOl8E)
+# [mathi zan]()
 ![]()
 
-# [rafis hd](https://rudj.s-ul.eu/wKKWLQ2K)
+# [rafis 2017]()
 ![]()
 
-# [tranquil sublimity](https://rudj.s-ul.eu/33CsDLZc)
+# [rafis 2018]()
 ![]()
 
-updated but i need to add gifs or images
+# [tranquil sublimity]()
+![]()
