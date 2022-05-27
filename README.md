@@ -17,8 +17,8 @@ BROKEN WILL UPDATE
 # [rudj nm varv]()
 ![]()
 
-# [aristia ✿]()
-![]()
+# [aristia ✿](https://rudj.s-ul.eu/SMQxGWqQ)
+![](https://cdn.discordapp.com/attachments/830112595854884925/979755482862456882/screenshot361.jpg)
 
 # [aristia bliss]()
 ![]()
