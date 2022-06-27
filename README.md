@@ -1,9 +1,12 @@
 BROKEN WILL UPDATE
+# [rudj dt blue v2](https://rudj.s-ul.eu/L0cvmidz)
+![](https://osu.ppy.sh/ss/17928170/990f)
+
 # [rudj dt blue]()
 ![]()
 
-# [rudj dt pink]()
-![]()
+# [rudj dt pink](https://rudj.s-ul.eu/uaDGPJzQ)
+![](https://osu.ppy.sh/ss/17928162/0e12)
 
 # [rudj dt raf]()
 ![]()
