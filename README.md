@@ -1,4 +1,7 @@
 BROKEN WILL UPDATE
+# [shield ✿](https://rudj.s-ul.eu/N3Ho5SWt)
+![](https://i.imgur.com/RB0snK1.png)
+
 # [rudj dt blue v2](https://rudj.s-ul.eu/L0cvmidz)
 ![](https://osu.ppy.sh/ss/17928170/990f)
 
