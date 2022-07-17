@@ -2,6 +2,9 @@ BROKEN WILL UPDATE
 # [shield ✿](https://rudj.s-ul.eu/N3Ho5SWt)
 ![](https://i.imgur.com/RB0snK1.png)
 
+# [aristia instapink](https://rudj.s-ul.eu/53mmQqWH)
+![](https://osu.ppy.sh/ss/17981062/fc28)
+
 # [rudj dt blue v2](https://rudj.s-ul.eu/L0cvmidz)
 ![](https://osu.ppy.sh/ss/17928170/990f)
 
