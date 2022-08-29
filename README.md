@@ -7,6 +7,9 @@
 # [shield ✿](https://rudj.s-ul.eu/N3Ho5SWt)
 ![](https://i.imgur.com/RB0snK1.png)
 
+# [icefrost](https://rudj.s-ul.eu/xXHVSbmz)
+![](https://osu.ppy.sh/ss/18089996/48a7)
+
 # [aristia instapink](https://rudj.s-ul.eu/53mmQqWH)
 ![](https://osu.ppy.sh/ss/17981062/fc28)
 
