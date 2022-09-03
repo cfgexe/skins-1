@@ -1,6 +1,9 @@
 # [woal](https://rudj.s-ul.eu/uT5a9oFo)
 ![](https://i.imgur.com/f0RCrcz.png)
 
+# [aristia rudj](https://rudj.s-ul.eu/UDPSQBb3)
+![](https://osu.ppy.sh/ss/18100588/d2cd)
+
 # [sorenity ✿](https://rudj.s-ul.eu/ODRLfX84)
 ![](https://i.imgur.com/fkmo1k2.png)
 
