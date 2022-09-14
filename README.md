@@ -1,4 +1,4 @@
-# woal skinhub
+# woal mega-skinhub
 made by <a href="https://twitter.com/rudj_">rudj</a>
 <p align="center">
   <a href="rudj.md">
