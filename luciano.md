@@ -1,23 +1,12 @@
+# Luciano's skinhub
 <p align="center">
-last 14/09/2022
-  <br></br>
-  <a href="https://www.twitch.tv/heisenberg_gaming93">
-  <img src="https://i.imgur.com/HM030lk.png" 
-       width="100" 
-       height="100"></a>
-  <a href="https://www.youtube.com/channel/UCx9QrppWkTd9-6gtgQBDU4w">
-  <img src="https://i.imgur.com/YWbDUUy.png"  
-       width="100" 
-       height="100"></a>
-  <a href="https://twitter.com/lucianodokoru">
-  <img src="https://i.imgur.com/PUQ5uWf.png" 
-       width="100" 
-       height="100"></a>
-  <a href="https://osu.ppy.sh/users/11604978">
-  <img src="https://i.imgur.com/79GpYI7.png"  
-       width="100" 
-       height="100"></a>
- </p>
+<a href="https://osu.ppy.sh/users/11604978">
+  <img src="https://a.ppy.sh/11604978"  
+       width="150"
+       height="150"></a>
+<br>
+last update 14/09/2022
+</p>
 
 # [Luciano The Game](https://github.com/rudjx3/skins/raw/main/luciano/Luciano%20The%20Game.osk)
 ![](https://cdn.discordapp.com/attachments/998327846068035626/1019694450408161411/Luciano_The_Game.jpg)
@@ -51,3 +40,19 @@ last 14/09/2022
 
 # [Luciano Pacifica](https://github.com/rudjx3/skins/raw/main/luciano/Luciano%20Pacifica.osk)
 ![](https://cdn.discordapp.com/attachments/998327846068035626/1019694471052542023/Lucinia_Pacifica.jpg)
+
+<p align="center">
+  <br></br>
+  <a href="https://www.twitch.tv/heisenberg_gaming93">
+  <img src="https://i.imgur.com/HM030lk.png" 
+       width="150" 
+       height="150"></a>
+  <a href="https://www.youtube.com/c/lucianodokoru">
+  <img src="https://i.imgur.com/YWbDUUy.png"  
+       width="150" 
+       height="150"></a>
+  <a href="https://twitter.com/lucianodokoru">
+  <img src="https://i.imgur.com/PUQ5uWf.png" 
+       width="150" 
+       height="150"></a>
+ </p>
