@@ -5,8 +5,14 @@
        width="150"
        height="150"></a>
 <br>
-no skins yet
+15/09/2022
 </p>
+
+# [-_ciru_AristiaEdit](https://github.com/rudjx3/skins/raw/main/ciru/-_ciru_AristiaEdit.osk)
+![](https://i.imgur.com/DU3oeGa.png)
+
+# [-_ciru_boop_edit](https://github.com/rudjx3/skins/raw/main/ciru/-_ciru_boop_edit.osk)
+![](https://i.imgur.com/A7i9w9c.jpeg)
 
 #
 <p align="center">
