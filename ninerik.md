@@ -9,19 +9,19 @@ last updated 15/09/2022
 </p>
 
 # [ninerik lad 24x24](https://github.com/rudjx3/skins/raw/main/ninerik/ninerik%20lad%2024x24.osk)
-![]()
+![](https://osu.ppy.sh/ss/18127526/c02b)
 
 # [Arnold 24x24](https://github.com/rudjx3/skins/raw/main/ninerik/Arnold24x24.osk)
-![]()
+![](https://osu.ppy.sh/ss/18127514/594e)
 
 # [fancy lad](https://github.com/rudjx3/skins/raw/main/ninerik/fancy%20lad.osk)
-![]()
+![](https://osu.ppy.sh/ss/18127519/e37b)
 
 # [Varvalian + bloo cursor](https://github.com/rudjx3/skins/raw/main/ninerik/Varvalian%20%2B%20bloo%20cursor.osk)
-![]()
+![](https://osu.ppy.sh/ss/18127524/707a)
 
 # [Intercambing](https://github.com/rudjx3/skins/raw/main/ninerik/Intercambing.osk)
-![]()
+![](https://osu.ppy.sh/ss/18127519/e37b)
 
 #
 <p align="center">
