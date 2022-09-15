@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-15/09/2022
+last update 15/09/2022
 </p>
 
 # [-_ciru_AristiaEdit](https://github.com/rudjx3/skins/raw/main/ciru/-_ciru_AristiaEdit.osk)
