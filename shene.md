@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last update 15/09/2022
+last 15/09/2022
 </p>
  
  # [-_im_bad_privat](https://github.com/rudjx3/skins/raw/main/shene/-_im_bad_private.osk)
