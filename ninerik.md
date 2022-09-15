@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated 15/09.2022
+last updated 15/09/2022
 </p>
 
 # [ninerik lad 24x24](https://github.com/rudjx3/skins/raw/main/ninerik/ninerik%20lad%2024x24.osk)
