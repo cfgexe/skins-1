@@ -17,6 +17,9 @@ last update 14/09/2022
 # [aristia ✿](https://github.com/rudjx3/skins/raw/main/rudj/aristia%20%E2%9C%BF.osk)
 ![](https://cdn.discordapp.com/attachments/830112595854884925/979755482862456882/screenshot361.jpg)
 
+# [aristia starfall](https://github.com/rudjx3/skins/raw/main/rudj/aristia%20starfall.osk)
+![](https://osu.ppy.sh/ss/18127462/f670)
+
 # [sorenity ✿](https://github.com/rudjx3/skins/raw/main/rudj/sorenity%20%E2%9C%BF.osk)
 ![](https://i.imgur.com/fkmo1k2.png)
 
