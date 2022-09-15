@@ -18,12 +18,11 @@ made by <a href="https://twitter.com/rudj_">rudj</a>
        width="175" 
        height="175"></a>
   <br>
-  <a href="shene.md">
-  <a href="https://osu.ppy.sh/users/11042418">
+  <a href="lystia.md">
   <img src="https://a.ppy.sh/11042418"  
        width="175"
        height="175"></a>
-  <a href="https://osu.ppy.sh/users/9067591">
+  <a href="mightydoc.md">
   <img src="https://a.ppy.sh/9067591"  
        width="175"
        height="175"></a>
