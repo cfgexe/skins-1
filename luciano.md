@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last update 14/09/2022
+last 14/09/2022
 </p>
 
 # [Luciano The Game](https://github.com/rudjx3/skins/raw/main/luciano/Luciano%20The%20Game.osk)
