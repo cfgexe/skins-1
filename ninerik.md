@@ -21,7 +21,7 @@ last updated 15/09/2022
 ![](https://osu.ppy.sh/ss/18127524/707a)
 
 # [Intercambing](https://github.com/rudjx3/skins/raw/main/ninerik/Intercambing.osk)
-![](https://osu.ppy.sh/ss/18127519/e37b)
+![](https://osu.ppy.sh/ss/18127521/9c1b)
 
 #
 <p align="center">
