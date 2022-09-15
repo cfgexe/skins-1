@@ -48,4 +48,6 @@ last update 14/09/2022
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="150" 
        height="150"></a>
+  <br>
+  <a href="README.md">woal mega-skinhub</a>
  </p>
