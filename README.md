@@ -13,6 +13,7 @@ made by <a href="https://twitter.com/rudj_">rudj</a>
   <img src="https://a.ppy.sh/12904237" 
        width="175" 
        height="175"></a>
+  <a href="shene.md">
   <img src="https://media.discordapp.net/attachments/739284160090472449/1019860887080804374/222222222.png" 
        width="175" 
        height="175"></a>
