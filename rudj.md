@@ -32,6 +32,7 @@ last update 14/09/2022
 # [rudj dt pink](https://github.com/rudjx3/skins/raw/main/rudj/-%20rudj%20dt%20pink.osk)
 ![](https://osu.ppy.sh/ss/17928162/0e12)
 
+#
 <p align="center">
   <br></br>
   <a href="https://www.twitch.tv/rudj_osu">
