@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last update 14/09/2022
+last 14/09/2022
 </p>
  
  # [- SmoreJoy ErikXilverSkill ver. Stetson](https://github.com/rudjx3/skins/raw/main/gabey/-_SmoreJoy_ErikXilverSkill_ver._Stetson.osk)
