@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last update 14/09/2022
+last 15/09/2022
 </p>
 
 # [aristia rudj](https://github.com/rudjx3/skins/raw/main/rudj/aristia%20rudj.osk)
