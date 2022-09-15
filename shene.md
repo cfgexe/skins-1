@@ -35,7 +35,7 @@ last update 15/09/2022
   <img src="https://i.imgur.com/YWbDUUy.png" 
        width="150" 
        height="150"></a>
-  <a href="https://twitter.com/gabeyosu">
+  <a href="https://twitter.com/shenetea">
   <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="150" 
        height="150"></a>
