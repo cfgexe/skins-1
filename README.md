@@ -55,5 +55,5 @@ made by <a href="https://twitter.com/rudj_">rudj</a>
 #
 
 <p align="center">
-  <br><a href="universal.md">universal skins</a>
+  <a href="universal.md">universal skins</a>
 </p>
