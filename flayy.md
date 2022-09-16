@@ -8,6 +8,12 @@
 no skins yet
 </p>
 
+# [flayy instafade](https://github.com/rudjx3/skins/raw/main/flayy/flayy%20instafade.osk)
+[![](https://cdn.discordapp.com/attachments/1018957796097667122/1020291044937568296/unknown.png)](https://github.com/rudjx3/skins/raw/main/flayy/flayy%20instafade.osk)
+
+# [azerino_instafade](https://github.com/rudjx3/skins/raw/main/flayy/azerino_instafade.osk)
+[![](https://cdn.discordapp.com/attachments/1018957796097667122/1020290852473557013/unknown.png)](https://github.com/rudjx3/skins/raw/main/flayy/azerino_instafade.osk)
+
 #
 <p align="center">
   <br></br>
