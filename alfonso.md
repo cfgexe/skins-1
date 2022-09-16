@@ -5,8 +5,14 @@
        width="150"
        height="150"></a>
 <br>
-no skins yet
+last updated 16/09/2022
 </p>
+
+# [Blue Aesfonsia](https://github.com/rudjx3/skins/raw/main/alfonso/Blue%20Aesfonsia.osk)
+![]()
+
+# [Alfonso_Spazza_White](https://github.com/rudjx3/skins/raw/main/alfonso/Alfonso_Spazza_White.osk)
+![]()
 
 #
 <p align="center">
