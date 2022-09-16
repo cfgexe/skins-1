@@ -1,8 +1,6 @@
 # woal mega-skinhub
 made by <a href="https://twitter.com/rudj_">rudj</a>
 <p align="center">
-  <a href="universal.md">universal skins</a>
-  <br>
   <a href="rudj.md">
   <img src="https://a.ppy.sh/11592896"  
        width="175"
@@ -52,4 +50,10 @@ made by <a href="https://twitter.com/rudj_">rudj</a>
        width="175"
        height="175"></a>
   <br></br>
+</p>
+
+#
+
+<p align="center">
+  <br><a href="universal.md">universal skins</a>
 </p>
