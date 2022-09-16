@@ -49,7 +49,7 @@ made by <a href="https://twitter.com/rudj_">rudj</a>
   <img src="https://a.ppy.sh/6114695"  
        width="175"
        height="175"></a>
-  <br></br>
+  <br>
 </p>
 
 #
