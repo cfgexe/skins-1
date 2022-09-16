@@ -8,16 +8,16 @@
 last updated 16/09/22
 </p>
 
-# [tony varv]()
+# [tony varv](https://github.com/rudjx3/skins/blob/main/mightydoc/tony%20varv.osk)
 ![]()
 
-# [Rafis but SZ]()
+# [Rafis but SZ](https://github.com/rudjx3/skins/blob/main/mightydoc/Rafis%20but%20SZ.osk)
 ![]()
 
-# [Micca-Vaxei-404 + Aricin Cursor]()
+# [Micca-Vaxei-404 + Aricin Cursor](https://github.com/rudjx3/skins/blob/main/mightydoc/Micca-Vaxei-404%20%2B%20Aricin%20Cursor.osk)
 ![]()
 
-# [Micca-Vaxei-404 V2]()
+# [Micca-Vaxei-404 V2](https://github.com/rudjx3/skins/blob/main/mightydoc/Micca-Vaxei-404%20V2%20.osk)
 ![]()
 
 <p align="center">
