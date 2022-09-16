@@ -9,7 +9,7 @@ last 15/09/2022
 </p>
 
 # [HABIBI boop](https://github.com/rudjx3/skins/raw/main/mahmood/HABIBI%20boop.osk)
-![](https://osu.ppy.sh/ss/18127492/45d4)
+[![](https://osu.ppy.sh/ss/18127492/45d4)](https://github.com/rudjx3/skins/raw/main/mahmood/HABIBI%20boop.osk)
 
 #
 <p align="center">
