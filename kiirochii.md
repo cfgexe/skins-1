@@ -9,10 +9,10 @@ no skins yet
 </p>
 
 # [- Seoul v10 + Dare](https://github.com/rudjx3/skins/raw/main/kiirochii/-%20Seoul%20v10%20%2B%20Dare.osk)
-![]()
+[![](https://cdn.discordapp.com/attachments/999706619820638248/1020287626302988309/screenshot1528.jpg)](https://github.com/rudjx3/skins/raw/main/kiirochii/-%20Seoul%20v10%20%2B%20Dare.osk)
 
 # [Rafis + playfield](https://github.com/rudjx3/skins/raw/main/kiirochii/Rafis%20%2B%20playfield.osk)
-![]()
+[![](https://cdn.discordapp.com/attachments/999706619820638248/1020287626068111360/screenshot1538.jpg)](https://github.com/rudjx3/skins/raw/main/kiirochii/Rafis%20%2B%20playfield.osk)
 
 #
 <p align="center">
