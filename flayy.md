@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-no skins yet
+last updated 16/09/2022
 </p>
 
 # [flayy instafade](https://github.com/rudjx3/skins/raw/main/flayy/flayy%20instafade.osk)
