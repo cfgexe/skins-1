@@ -9,10 +9,10 @@ last 15/09/2022
 </p>
 
 # [-_ciru_AristiaEdit](https://github.com/rudjx3/skins/raw/main/ciru/-_ciru_AristiaEdit.osk)
-![](https://i.imgur.com/DU3oeGa.png)
+[![](https://i.imgur.com/DU3oeGa.png)](https://github.com/rudjx3/skins/raw/main/ciru/-_ciru_AristiaEdit.osk)
 
 # [-_ciru_boop_edit](https://github.com/rudjx3/skins/raw/main/ciru/-_ciru_boop_edit.osk)
-![](https://i.imgur.com/A7i9w9c.jpeg)
+[![](https://i.imgur.com/A7i9w9c.jpeg)](https://github.com/rudjx3/skins/raw/main/ciru/-_ciru_boop_edit.osk)
 
 #
 <p align="center">
