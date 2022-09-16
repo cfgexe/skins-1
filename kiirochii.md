@@ -8,6 +8,12 @@
 no skins yet
 </p>
 
+# [- Seoul v10 + Dare](https://github.com/rudjx3/skins/raw/main/kiirochii/-%20Seoul%20v10%20%2B%20Dare.osk)
+![]()
+
+# [Rafis + playfield](https://github.com/rudjx3/skins/raw/main/kiirochii/Rafis%20%2B%20playfield.osk)
+![]()
+
 #
 <p align="center">
   <br></br>
