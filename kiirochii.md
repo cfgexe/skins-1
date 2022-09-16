@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updatd 16/09/2022
+last updated 16/09/2022
 </p>
 
 # [- Seoul v10 + Dare](https://github.com/rudjx3/skins/raw/main/kiirochii/-%20Seoul%20v10%20%2B%20Dare.osk)
