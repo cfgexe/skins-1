@@ -10,7 +10,12 @@ last 17/09/2022
 
 # [aristia doom](https://github.com/rudjx3/skins/raw/main/doomwrld/aristia%20doom.osk)
 [![](https://cdn.discordapp.com/attachments/936185753225007144/1020450230195470396/screenshot069.png)](https://github.com/rudjx3/skins/raw/main/doomwrld/aristia%20doom.osk)
+
+# [doom dt](https://github.com/rudjx3/skins/raw/main/doomwrld/doom%20dt.osk)
+[![](https://cdn.discordapp.com/attachments/936185753225007144/1020683668345339954/screenshot071.png)](https://github.com/rudjx3/skins/raw/main/doomwrld/doom%20dt.osk)
+
 #
+
 <p align="center">
   <br></br>
   <a href="https://www.twitch.tv/doomwrld_">
