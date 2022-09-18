@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated 16/09/2022
+last 18/09/2022
 </p>
 
 # [Blue Aesfonsia](https://github.com/rudjx3/skins/raw/main/alfonso/Blue%20Aesfonsia.osk)
