@@ -57,6 +57,10 @@ made by <a href="https://twitter.com/rudj_">rudj</a>
   <img src="https://a.ppy.sh/14239645"  
        width="175"
        height="175"></a>
+  <a href="jerekek.md">
+  <img src="https://a.ppy.sh/4162662"  
+       width="175"
+       height="175"></a>
   <br>
 </p>
 
