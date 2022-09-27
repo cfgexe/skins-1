@@ -1,26 +1,20 @@
-# lystia's skinhub
+# erick's skinhub
 <p align="center">
-<a href="https://osu.ppy.sh/users/11042418">
-  <img src="https://a.ppy.sh/11042418"  
+<a href="https://www.youtube.com/c/launchh">
+  <img src="https://cdn.discordapp.com/attachments/926821029354012683/1022554468769865859/dfgfdggfdgfdgfd.png"  
        width="150"
        height="150"></a>
 <br>
-no skins yet
+last 22/09/2022
 </p>
 
+# [₍ᐢ. ̫ .ᐢ₎](https://github.com/rudjx3/skins/raw/main/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
+[![](https://secret.s-ul.eu/2XhEF1x7)](https://github.com/rudjx3/skins/raw/main/erick/%E2%82%8D%E1%90%A2.%20%CC%AB%20.%E1%90%A2%E2%82%8E.osk)
 #
 <p align="center">
   <br></br>
-  <a href="https://www.twitch.tv/lystia_">
-  <img src="https://i.imgur.com/HM030lk.png" 
-       width="100" 
-       height="100"></a>
-  <a href="https://www.youtube.com/channel/UCSEBue2BjWWRg3f2Wsm8NYQ">
+  <a href="https://www.youtube.com/c/launchh">
   <img src="https://i.imgur.com/YWbDUUy.png"  
-       width="100" 
-       height="100"></a>
-  <a href="https://twitter.com/doug_aim">
-  <img src="https://i.imgur.com/PUQ5uWf.png" 
        width="100" 
        height="100"></a>
   <br></br>

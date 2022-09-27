@@ -61,6 +61,10 @@ made by <a href="https://twitter.com/rudj_">rudj</a>
   <img src="https://a.ppy.sh/4162662"  
        width="175"
        height="175"></a>
+  <a href="erick.md">
+  <img src="https://cdn.discordapp.com/attachments/926821029354012683/1022554468769865859/dfgfdggfdgfdgfd.png"  
+       width="175"
+       height="175"></a>
   <br>
 </p>
 
